@@ -1,0 +1,33 @@
+DOM Selectors
+
+- querySelector()
+
+- getElementById()
+
+- querySelectorall()
+
+- getElementsByClassName()
+
+- getElementsByTagName()
+
+-----------------------------------
+DOM Attributes
+
+- getAttribute()
+
+- setAttribute()
+
+- removeAttribute()
+
+-----------------------------------
+We can style DOM elements using (element.style.#the thing i want#)
+
+We can add a new element to the html using (document.createElement())
+
+we can add text using (document.createTextNode())
+
+removeChild() removes and child node from the DOM
+------------------------------------
+DOM Events
+
+We use (document.addEventListener()) to add a new event like click a button
